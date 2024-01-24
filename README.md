@@ -1,3 +1,2 @@
 # wtf
-This is the first repo I created.
-哈哈
+这里是一个 github 的使用方法学习示例，不在乎内容的正确与否，仅限于基本的 github 上传、克隆、暂存等操作
